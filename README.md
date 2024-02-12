@@ -1,5 +1,5 @@
 # Calculadora Média Escolar
-O appSchool, foi desenvolvido durante o curso de Android Studio na plataforma Estudonauta, e adaptei o código para Kotlin - projeto foi feito em Java. 
+O appSchool, foi desenvolvido durante o curso de Android Studio na plataforma Estudonauta, e adaptei o código para Kotlin - projeto foi idealizado e apresentado em Java. 
 Apesar de ser um app simples, coloquei em prática muitas funções e conceitos da linguagem Kotlin.
 Desde imagem estática (logo do app), mudança de cores nos objetos de TextView até as imagens dinâmicas e o ícone do app que foi estilizado.
 
