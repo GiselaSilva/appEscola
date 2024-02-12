@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">appSchool v1.0</string>
+    <string name="strN1">Grade 1</string>
+    <string name="strN2">Grade 2</string>
+    <string name="strCalc">Calculate</string>
+    <string name="strMedia">Averege</string>
+    <string name="strZero">0</string>
+    <string name="strSituacao">Situation</string>
+    <string name="strAprovado">Approved</string>
+    <string name="strRecuperacao">Retake Test</string>
+    <string name="strReprovado">Disapproved</string>
+    <string name="strMsgAprovado">Congratulations!!</string>
+    <string name="strMsgRecuperacao">Study More!! It\'s still possible.</string>
+    <string name="strMsgReprovado">Please try again next year!</string>
+    <string name="msgError">Type a number</string>
+</resources>
